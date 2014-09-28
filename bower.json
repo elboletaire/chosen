@@ -1,0 +1,26 @@
+{
+  "name": "chosen",
+  "version": "1.2.2",
+  "homepage": "https://github.com/elboletaire/chosen",
+  "authors": [
+    "Harvest <www.getharvest.com>"
+  ],
+  "description": "Chosen is a library for making long, unwieldy select boxes more friendly.",
+  "main": "chosen.proto.js",
+  "keywords": [
+    "ui",
+    "forms",
+    "dropdowns",
+    "select",
+    "boxes",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
