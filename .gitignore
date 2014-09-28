@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+.project
+public/*
+sass/*
+coffee/*
+chosen.zip
+.sass-cache
+.ruby-version
+.rbenv-gemsets
+config.rb
+Gemfile*
