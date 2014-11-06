@@ -6,7 +6,7 @@ Chosen is a library for making long, unwieldy select boxes more user friendly.
 - Prototype support: 1.7+
 
 For **documentation**, usage, and examples, see:
-http://harvesthq.github.io/chosen/
+http://elboletaire.github.io/chosen/
 
 For **downloads**, see:
 https://github.com/harvesthq/chosen/releases/
