@@ -34,7 +34,7 @@ class Chosen extends AbstractChosen
       'class': container_classes.join ' '
       'title': @form_field.title
 
-    container_props.id = @form_field.id.replace(/[^\w]/g, '_') + "_chosen" if @form_field.id.length
+    container_props.id = @form_field.id.replace(/[^\w]/g, '-') + "-chosen" if @form_field.id.length
 
     @container = ($ "<div />", container_props)
 
